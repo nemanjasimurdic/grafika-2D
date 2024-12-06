@@ -1,0 +1,2 @@
+C:\Users\nsimu\OneDrive\Desktop\Grafika\v3 - Indeksno iscrtavanje + link\RG V3Z3\V3Z3\x64\Debug\glew32.dll
+C:\Users\nsimu\OneDrive\Desktop\Grafika\Dolina\x64\Debug\glew32.dll

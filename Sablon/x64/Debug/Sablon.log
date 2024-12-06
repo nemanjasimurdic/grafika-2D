@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nsimu\OneDrive\Desktop\Grafika\Dolina\main.cpp(125,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> C:\Users\nsimu\OneDrive\Desktop\Grafika\Dolina\x64\Debug\Sablon.exe
